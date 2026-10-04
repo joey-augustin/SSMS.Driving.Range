@@ -14,6 +14,7 @@ I built a relational database, _Joey's Driving Range_, for a fictional driving r
 1. Clone the repository: `git clone (https://github.com/joey-augustin/SSMS.Driving.Range)`
 2. Open `Joey's Driving Range.sql` in SQL Server Management Studio or another SQL Server client
 3. Run the script from top to bottom: database creation, then tables in order (`Customer`, `Range`, `TeeBox`, `Tournament`, `BucketOfBalls`, `TeeBoxUsage`, `Entry`, `Purchase`)
+4. Entity Relationship Diagrams can be found within the same folder, either by opening 'Conceptual, Logical & Physical Model.vsdx' in Visio or viewing each individual .png screenshot
 
 ## Technologies Used
 - SQL Server Management Studio (SSMS)
