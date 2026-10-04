@@ -1,5 +1,5 @@
 # SSMS - Driving Range
-I built a relational database, _DrivingRange_, for a fictional driving range business with tee box rentals, ball bucket purchases, and golf tournaments. It covers customers, the range facility, tee boxes, tournaments, entries, and purchases. This was a project for CWEB2126 - Database II.
+I built a relational database, _Joey's Driving Range_, for a fictional driving range business with tee box rentals, ball bucket purchases, and golf tournaments. It covers customers, the range facility, tee boxes, tournaments, entries, and purchases. This was a project for CWEB2126 - Database II.
 ## Project - Driving Range Database and Entity Relationship Diagrams
 
 - **Entity Relationship Diagrams**: Conceptual, Logical, Physical
