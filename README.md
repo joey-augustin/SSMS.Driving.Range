@@ -1,5 +1,5 @@
 # SSMS - Driving.Range
-I built a relational database, _DrivingRange_, for a fictional driving range business with tee box rentals, ball bucket purchases, and golf tournaments. It covers customers, the range facility, tee boxes, tournaments, entries, and purchases. This was a project for [COURSE NUMBER] - [COURSE NAME].
+I built a relational database, _DrivingRange_, for a fictional driving range business with tee box rentals, ball bucket purchases, and golf tournaments. It covers customers, the range facility, tee boxes, tournaments, entries, and purchases. This was a project for CWEB2126 - Database II.
 ## Project - DrivingRange Database
 
 - **Schema Design (DDL)**: `Customer`, `Range`, `TeeBox`, `Tournament`, `BucketOfBalls`, `TeeBoxUsage`, `Entry`, `Purchase`
